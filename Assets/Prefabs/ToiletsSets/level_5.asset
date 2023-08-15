@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ead16738e0268ea4eb87728cc76b17b9, type: 3}
+  m_Name: level_5
+  m_EditorClassIdentifier: 
+  _animals:
+  - {fileID: -5453310178918768931, guid: 0ee957e2035cab74d80998279e54c17a, type: 3}
+  - {fileID: -5453310178918768931, guid: 246c3b0ae3dbd92428b9c7507a72032a, type: 3}
+  - {fileID: -5453310178918768931, guid: f150cc8d52cb1984f9cd1d87d02f35fd, type: 3}
+  - {fileID: -5453310178918768931, guid: 3e4e42ee8222ba24a8d99a3748c4e7e5, type: 3}
+  - {fileID: -5453310178918768931, guid: d2fe60577f9a18c4fb6b9b87b9595de3, type: 3}
